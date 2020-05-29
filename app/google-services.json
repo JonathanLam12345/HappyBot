@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "607629917027",
+    "firebase_url": "https://motivationbot-b8e45.firebaseio.com",
+    "project_id": "motivationbot-b8e45",
+    "storage_bucket": "motivationbot-b8e45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607629917027:android:b675dcbbab164c3138b156",
+        "android_client_info": {
+          "package_name": "com.myapp.jlam.motivationalbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607629917027-rbfgghuv59mtc3dg49f2j475fo1ad9pn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLToQ4EwqWvEUgz1JC4t9j-JsyX7Tu8eY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607629917027-rbfgghuv59mtc3dg49f2j475fo1ad9pn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
